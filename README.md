@@ -16,6 +16,6 @@ Array-
 file & Regexp-
 
 1. Replace the matched word in a file.
-2. Get phone numbers(10 digits) and zip code(6 digits) from file.
+2. Get phone numbers(10 digits) and zip code(6 digits) 
 3. Get the email address.
 4. Get the list of names from the file, always name looks like ```name: <'python'>,```
