@@ -1,4 +1,4 @@
-# The below aree the task assigned by Vasanthan C
+# The below are the task assigned by Vasanthan C
 
 Dict Operation-
 
